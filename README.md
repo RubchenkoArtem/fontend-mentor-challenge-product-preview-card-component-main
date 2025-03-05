@@ -31,7 +31,7 @@ Download the project and go through the README.md file. This will provide furthe
 
 ### Solutions
 
-- Solution URL: [Click](https://www.frontendmentor.io/solutions/faq-accordion-main-NGLtWzhxgk)
+- Solution URL: [Click](https://www.frontendmentor.io/solutions/card-component-b_YWbHGLki)
 - Live Site URL: [Click](https://rubchenkoartem.github.io/fontend-mentor-challenge-product-preview-card-component-main/)
 
 ## My process
