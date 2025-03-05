@@ -32,7 +32,7 @@ Download the project and go through the README.md file. This will provide furthe
 ### Solutions
 
 - Solution URL: [Click](https://www.frontendmentor.io/solutions/faq-accordion-main-NGLtWzhxgk)
-- Live Site URL: [Click](https://rubchenkoartem.github.io/faq-accordion-main-frontendmentor/)
+- Live Site URL: [Click](https://rubchenkoartem.github.io/fontend-mentor-challenge-product-preview-card-component-main/)
 
 ## My process
 
